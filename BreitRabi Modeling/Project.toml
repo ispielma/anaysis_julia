@@ -1,0 +1,7 @@
+[deps]
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+PythonPlot = "274fc56d-3b97-40fa-a1cd-1b4a50311bf9"
+QGas = "157a641c-7539-4439-85a5-392db9878408"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
